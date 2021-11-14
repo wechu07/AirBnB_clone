@@ -54,4 +54,4 @@ $
  
  Joshua Onwuka <a href="contactuche02@gmail.com/">Gmail/<a>
  
- Eugene Simiyu <a href="wechuli017@gmail.com/">Gmail</a>
+ Eugene Simiyu <a href="wechuli017@gmail.com/">Gmail/</a>
