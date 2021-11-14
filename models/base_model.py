@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Module base_model
-This class model defines all
+This class model defines all.
 common attributes/methods for other classes
 """
 

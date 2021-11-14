@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module place
+Module place.
 Inherits from BaseModel
 """
 
